@@ -71,7 +71,7 @@ header {
 }
 
 .derecha {
-    background:url(../img/derecha.png);
+    background:url(/img/derecha.png);
     background-size: cover;
     background-position: center;
     width: 50%;
